@@ -1,0 +1,43 @@
+Department,Work Date,Time Spent,Service Category,Subject,User Name,Status
+LEGO Hypercare,14/10,10,,Fired:Sev3 Azure Monitor Alert Response Latency Degradation - portal-prd-uks-webapp on portal-prd-uks-webapp ( microsoft.insights/components ) at 10/14/2024 2:51:35 AM,Microsoft Azure,Assigned
+LEGO Hypercare,14/10,10,Apps » LEGO - Portals,Azure: Activated Severity: 2 LEGO Portal - Warn - portal-prd-uks-api - Response Time above threshold,Microsoft Azure,Assigned
+LEGO Hypercare,14/10,05,Apps » LEGO - MECOMS,Azure: Activated Severity: 2 Fusion - AppGw Total Time - fl-a9226639d4cbe7753666c353d82fadad - Warning - appgw-fusion-prd-uks-01,Microsoft Azure,Assigned
+LEGO Hypercare,14/10,05,Apps » LEGO - Portals,Azure: Activated Severity: 2 Fusion - AppGw Total Time - fl-c1638db1580312d8bdf6c4b3b0aa275f - Warning - appgw-fusion-prd-uks-01,Microsoft Azure,Assigned
+Alerts,14/10,05,Apps » CheckMk,CRIT coren-wt1-vm-vbr01 VEEAM Job ln3-cor-w2,Checkmk COREN,Closed
+Alerts,14/10,05,Apps » CheckMk,CRIT coren-wt1-vm-vbr01 VEEAM Job ln3-cor-c1,Checkmk COREN,Closed
+SITS Support,14/10,05,Network  » Firewall ,Unable to login to SG government website,Rachel Chua,Updated
+Corona Support,14/10,05,Apps » Mimecast,Phishing: Neil Mitchell Impersonation,Abigail Owolabi,Closed
+SITS Support,14/10,05,Network  » Firewall ,Unable to login to SG government website,Rachel Chua,Updated
+Support,14/10,20,Hardware  » AV,BXR Meeting Room Daily Checks,Sensical.net Tech Ops,Closed
+Corona Support,14/10,30,Apps » O365,Trouble pasting,Zulekha Juma,Closed
+Corona Support,14/10,05,Apps » Other ,Task Scheduler privileges on HST29,Arun Koottungal,Updated
+Corona Support,14/10,05,Apps » Outlook ,Issue Sending Emails,Vanessa Joyce,Updated
+SITS Support,14/10,05,Process  » Other ,Afinum X Download,Aaron Yeunh,Waiting
+SITS Support,14/10,05,Apps » Citrix,Citrix Issue,Brendan Smart,Waiting
+Corona Support,14/10,05,Apps » RingCentral,Ringcentral - New Starter Activation,Nicola Smith,Waiting
+Corona Support,14/10,05,Apps » OS-Windows Desktop ,Blue Error Screen,Asaf Hussain,Assigned
+SITS Support,14/10,05,Hardware  » Other ,TC not auto logging-off,Daniel Hallgarten,Waiting
+Corona Development,14/10,05,Process  » Development Ticket (Corona),Unable to Price 40740503,Ben Young,Closed
+Corona Development,14/10,05,Process  » Development Ticket (Corona),Unable to price 40740769,Ben Young,Closed
+Corona Support,14/10,05,Hardware  » Laptop ,Camera Quality - laptop 631 vs 365,Vanessa Joyce,Updated
+Corona Support,14/10,05,Apps » RingCentral,Ring Central - Refused Call,Caitlin Chamberlain,Waiting
+Corona Development,14/10,05,Process  » Development Ticket (Corona),RE: EP and Seamless/Signature Reporting,Ishan Songra,Closed
+Corona Development,14/10,05,Process  » Development Ticket (Corona),Pricing error Royal China,Mariana Gheorghe,Closed
+Corona Development,14/10,05,Process  » Development Ticket (Corona),Unable to Commit 40740063,Ben Young,Closed
+Priority Support,14/10,05,Network  » Firewall ,Deezer - AUP SBS,Vanessa Kindzhakova,Assigned
+Support,15/10,05,Service » MFA,User lockout report - darren.belton@saffronbs.co.uk,Duo Security,Closed
+Support,15/10,05,Service » MFA,User lockout report - olivia.bell@saffronbs.co.uk,Duo Security,Closed
+Support,15/10,05,Service » MFA,User lockout report - darren.belton@saffronbs.co.uk,Duo Security,Closed
+Support,15/10,05,,Cannot logon to VPN,Darren Belton,Closed
+Support,15/10,10,Service » MFA,User lockout report - darren.belton@saffronbs.co.uk,Duo Security,Closed
+Support,15/10,05,Service » MFA,User lockout report - olivia.bell@saffronbs.co.uk,Duo Security,Closed
+Support,15/10,10,,Cannot logon to VPN,Darren Belton,Closed
+SITS Support,15/10,05,Process  » Other ,Afinum X Download,Aaron Yeunh,Waiting
+SITS Support,15/10,15,Network  » Firewall ,Unable to login to SG government website,Rachel Chua,Updated
+Corona Support,15/10,05,Hardware  » Laptop ,Camera Quality - laptop 631 vs 365,Vanessa Joyce,Updated
+Corona Support,15/10,05,Apps » RingCentral,Ring Central - Refused Call,Caitlin Chamberlain,Waiting
+Alerts,15/10,30,Apps » OS-Windows Desktop ,CRIT coren-wt1-vm-rds11 Filesystem C:/,Checkmk COREN,Waiting
+Corona Support,15/10,05,Apps » RingCentral,Ringcentral - New Starter Activation,Nicola Smith,Waiting
+SITS Support,15/10,05,Apps » Citrix,Citrix Issue,Brendan Smart,Waiting
+Alerts,15/10,05,Apps » CheckMk,CRIT sits-dc2-dex-01 Systemd Service Summary,Checkmk SITS,Assigned
+Alerts,15/10,05,Apps » OS-Windows Desktop ,CRIT coren-wt1-vm-rds11 Filesystem C:/,Checkmk COREN,Waiting

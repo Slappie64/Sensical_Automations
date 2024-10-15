@@ -1,0 +1,43 @@
+Tickets.Ticket,Department,Work Date,Worker,Time Spent,Service Category,Subject,User Name,Status
+Tickets.Ticket,LEGO Hypercare,14 Oct 2024 08:06,Luigi Marino,10m 0s,,Fired:Sev3 Azure Monitor Alert Response Latency Degradation - portal-prd-uks-webapp on portal-prd-uks-webapp ( microsoft.insights/components ) at 10/14/2024 2:51:35 AM,Microsoft Azure,Assigned
+Tickets.Ticket,LEGO Hypercare,14 Oct 2024 08:09,Luigi Marino,10m 0s,Apps » LEGO - Portals,Azure: Activated Severity: 2 LEGO Portal - Warn - portal-prd-uks-api - Response Time above threshold,Microsoft Azure,Assigned
+Tickets.Ticket,LEGO Hypercare,14 Oct 2024 08:15,Luigi Marino,5m 0s,Apps » LEGO - MECOMS,Azure: Activated Severity: 2 Fusion - AppGw Total Time - fl-a9226639d4cbe7753666c353d82fadad - Warning - appgw-fusion-prd-uks-01,Microsoft Azure,Assigned
+Tickets.Ticket,LEGO Hypercare,14 Oct 2024 08:15,Luigi Marino,5m 0s,Apps » LEGO - Portals,Azure: Activated Severity: 2 Fusion - AppGw Total Time - fl-c1638db1580312d8bdf6c4b3b0aa275f - Warning - appgw-fusion-prd-uks-01,Microsoft Azure,Assigned
+Tickets.Ticket,Alerts,14 Oct 2024 08:22,Luigi Marino,5m 0s,Apps » CheckMk,CRIT coren-wt1-vm-vbr01 VEEAM Job ln3-cor-w2,Checkmk COREN,Closed
+Tickets.Ticket,Alerts,14 Oct 2024 08:25,Luigi Marino,5m 0s,Apps » CheckMk,CRIT coren-wt1-vm-vbr01 VEEAM Job ln3-cor-c1,Checkmk COREN,Closed
+Tickets.Ticket,SITS Support,14 Oct 2024 08:38,Luigi Marino,5m 0s,Network  » Firewall ,Unable to login to SG government website,Rachel Chua,Updated
+Tickets.Ticket,Corona Support,14 Oct 2024 08:52,Luigi Marino,5m 0s,Apps » Mimecast,Phishing: Neil Mitchell Impersonation,Abigail Owolabi,Closed
+Tickets.Ticket,SITS Support,14 Oct 2024 09:05,Luigi Marino,5m 0s,Network  » Firewall ,Unable to login to SG government website,Rachel Chua,Updated
+Tickets.Ticket,Support,14 Oct 2024 09:07,Luigi Marino,20m 0s,Hardware  » AV,BXR Meeting Room Daily Checks,Sensical.net Tech Ops,Closed
+Tickets.Ticket,Corona Support,14 Oct 2024 09:36,Luigi Marino,30m 0s,Apps » O365,Trouble pasting,Zulekha Juma,Closed
+Tickets.Ticket,Corona Support,14 Oct 2024 09:38,Luigi Marino,5m 0s,Apps » Other ,Task Scheduler privileges on HST29,Arun Koottungal,Updated
+Tickets.Ticket,Corona Support,14 Oct 2024 09:39,Luigi Marino,5m 0s,Apps » Outlook ,Issue Sending Emails,Vanessa Joyce,Updated
+Tickets.Ticket,SITS Support,14 Oct 2024 09:41,Luigi Marino,5m 0s,Process  » Other ,Afinum X Download,Aaron Yeunh,Waiting
+Tickets.Ticket,SITS Support,14 Oct 2024 09:42,Luigi Marino,5m 0s,Apps » Citrix,Citrix Issue,Brendan Smart,Waiting
+Tickets.Ticket,Corona Support,14 Oct 2024 09:43,Luigi Marino,5m 0s,Apps » RingCentral,Ringcentral - New Starter Activation,Nicola Smith,Waiting
+Tickets.Ticket,Corona Support,14 Oct 2024 10:20,Luigi Marino,5m 0s,Apps » OS-Windows Desktop ,Blue Error Screen,Asaf Hussain,Assigned
+Tickets.Ticket,SITS Support,14 Oct 2024 10:25,Luigi Marino,5m 0s,Hardware  » Other ,TC not auto logging-off,Daniel Hallgarten,Waiting
+Tickets.Ticket,Corona Development,14 Oct 2024 11:15,Luigi Marino,5m 0s,Process  » Development Ticket (Corona),Unable to Price 40740503,Ben Young,Closed
+Tickets.Ticket,Corona Development,14 Oct 2024 11:34,Luigi Marino,5m 0s,Process  » Development Ticket (Corona),Unable to price 40740769,Ben Young,Closed
+Tickets.Ticket,Corona Support,14 Oct 2024 15:00,Luigi Marino,5m 0s,Hardware  » Laptop ,Camera Quality - laptop 631 vs 365,Vanessa Joyce,Updated
+Tickets.Ticket,Corona Support,14 Oct 2024 15:00,Luigi Marino,5m 0s,Apps » RingCentral,Ring Central - Refused Call,Caitlin Chamberlain,Waiting
+Tickets.Ticket,Corona Development,14 Oct 2024 15:01,Luigi Marino,5m 0s,Process  » Development Ticket (Corona),RE: EP and Seamless/Signature Reporting,Ishan Songra,Closed
+Tickets.Ticket,Corona Development,14 Oct 2024 15:02,Luigi Marino,5m 0s,Process  » Development Ticket (Corona),Pricing error Royal China,Mariana Gheorghe,Closed
+Tickets.Ticket,Corona Development,14 Oct 2024 15:59,Luigi Marino,5m 0s,Process  » Development Ticket (Corona),Unable to Commit 40740063,Ben Young,Closed
+Tickets.Ticket,Priority Support,14 Oct 2024 16:05,Luigi Marino,5m 0s,Network  » Firewall ,Deezer - AUP SBS,Vanessa Kindzhakova,Assigned
+Tickets.Ticket,Support,15 Oct 2024 08:39,Luigi Marino,5m 0s,Service » MFA,User lockout report - darren.belton@saffronbs.co.uk,Duo Security,Closed
+Tickets.Ticket,Support,15 Oct 2024 08:40,Luigi Marino,5m 0s,Service » MFA,User lockout report - olivia.bell@saffronbs.co.uk,Duo Security,Closed
+Tickets.Ticket,Support,15 Oct 2024 08:49,Luigi Marino,5m 0s,Service » MFA,User lockout report - darren.belton@saffronbs.co.uk,Duo Security,Closed
+Tickets.Ticket,Support,15 Oct 2024 08:52,Luigi Marino,5m 0s,,Cannot logon to VPN,Darren Belton,Closed
+Tickets.Ticket,Support,15 Oct 2024 08:54,Luigi Marino,10m 0s,Service » MFA,User lockout report - darren.belton@saffronbs.co.uk,Duo Security,Closed
+Tickets.Ticket,Support,15 Oct 2024 08:55,Luigi Marino,5m 0s,Service » MFA,User lockout report - olivia.bell@saffronbs.co.uk,Duo Security,Closed
+Tickets.Ticket,Support,15 Oct 2024 08:58,Luigi Marino,10m 0s,,Cannot logon to VPN,Darren Belton,Closed
+Tickets.Ticket,SITS Support,15 Oct 2024 08:58,Luigi Marino,5m 0s,Process  » Other ,Afinum X Download,Aaron Yeunh,Waiting
+Tickets.Ticket,SITS Support,15 Oct 2024 09:01,Luigi Marino,15m 0s,Network  » Firewall ,Unable to login to SG government website,Rachel Chua,Updated
+Tickets.Ticket,Corona Support,15 Oct 2024 09:02,Luigi Marino,5m 0s,Hardware  » Laptop ,Camera Quality - laptop 631 vs 365,Vanessa Joyce,Updated
+Tickets.Ticket,Corona Support,15 Oct 2024 09:02,Luigi Marino,5m 0s,Apps » RingCentral,Ring Central - Refused Call,Caitlin Chamberlain,Waiting
+Tickets.Ticket,Alerts,15 Oct 2024 09:14,Luigi Marino,30m 0s,Apps » OS-Windows Desktop ,CRIT coren-wt1-vm-rds11 Filesystem C:/,Checkmk COREN,Waiting
+Tickets.Ticket,Corona Support,15 Oct 2024 09:17,Luigi Marino,5m 0s,Apps » RingCentral,Ringcentral - New Starter Activation,Nicola Smith,Waiting
+Tickets.Ticket,SITS Support,15 Oct 2024 09:20,Luigi Marino,5m 0s,Apps » Citrix,Citrix Issue,Brendan Smart,Waiting
+Tickets.Ticket,Alerts,15 Oct 2024 09:22,Luigi Marino,5m 0s,Apps » CheckMk,CRIT sits-dc2-dex-01 Systemd Service Summary,Checkmk SITS,Assigned
+Tickets.Ticket,Alerts,15 Oct 2024 09:38,Luigi Marino,5m 0s,Apps » OS-Windows Desktop ,CRIT coren-wt1-vm-rds11 Filesystem C:/,Checkmk COREN,Waiting
